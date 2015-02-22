@@ -1,0 +1,27 @@
+{
+  "name": "ks-components",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ks-frontend/ks-components.git",
+  "authors": [
+    "Khalid Sookia <khalidsookia@gmail.com>"
+  ],
+  "description": "The components libraray contains several piece of codes which are not enough to make a library for.",
+  "main": "lib/components.js",
+  "keywords": [
+    "Front end file structure"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/contrib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ks-front-core": "~0.0.0"
+  },
+  "devDependencies": {
+  }
+}
