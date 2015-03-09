@@ -13,3 +13,7 @@ Have a look at the code to get a better idea.
 ```console
 $ bower install ks-components
 ```
+
+[![Bower version](https://badge.fury.io/bo/ks-components.svg)](http://badge.fury.io/bo/ks-components)
+
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
